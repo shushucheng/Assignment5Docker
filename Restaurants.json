@@ -1,0 +1,20 @@
+{
+   "Restaurant1" : {
+      "name" : "Tim Ho Wan",
+      "category" : "Dim Sum",
+      "phone#" : "212-228-2800",
+      "id": 1
+   },
+   "Restaurant2" : {
+      "name" : "Niu Pot",
+      "category" : "Hot pot",
+      "phone#" : "718-886-1021",
+      "id": 2
+   },
+   "Restaurant3" : {
+      "name" : "China Xiang",
+      "category" : "Hunan",
+      "phone#" : "917-348-2919",
+      "id": 3
+   }
+}
