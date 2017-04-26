@@ -2,7 +2,8 @@
 CS612 Assignment5 MyFavoriteRestaurant (Docker+ Node.js+ Json)
 -----------------------------------------------------------------------------------------------------------------------------------
 Step1: Start the docker
-1. docker images                                                        |List images in the docker
+1. docker images                                                        
+List images in the docker
 
 2. docker ps -a                                                         |Show all containers
 
@@ -23,7 +24,7 @@ Step1: Start the docker
                                                                         |-f Force removal of the image
 
 -------------------------------------------------------------------------------------------------------------------------------------
-step2: Open the browser(before you enter the command 6 of step1)
+Step2: Open the browser(before you enter the command 6 of step1)
 1. enter localhost:8888/listRestaurant
 |Displays a collection of my favorite chinese restaurants
 
