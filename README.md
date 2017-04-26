@@ -14,18 +14,21 @@ Build an image from a Dockerfile
                                                                         
 4. docker run --rm -d -p 8888.8888 --name myrunningapp mynodeapp
 
-Run a command in a new container
-(--name Assign a name to the container --rm Automatically remove the container when it exits -d Run container in background and print container ID -p Publish a container’s port(s) to the host)
+ Run a command in a new container
+ (--name Assign a name to the container --rm Automatically remove the container when it exits -d Run container in background and print    container ID -p Publish a container’s port(s) to the host)
 
 5. docker logs myrunningapp 
-Fetch the logs of a container
+
+ Fetch the logs of a container
 
 6. docker rm myrunningapp                                               
-Remove one or more containers
+
+ Remove one or more containers
 
 7. docker rmi -f mynodeapp                                              
-Remove one or more images
-(-f Force removal of the image)
+
+ Remove one or more images
+ (-f Force removal of the image)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 Step2: Open the browser(before you enter the command 6 of step1)
