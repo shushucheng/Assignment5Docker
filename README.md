@@ -3,7 +3,7 @@ CS612 Assignment5 MyFavoriteRestaurant (Docker+ Node.js+ Json)
 -----------------------------------------------------------------------------------------------------------------------------------
 Step1: Start the docker
 Command                                                                 Description
-1. docker images                                                        List images in the docker
+1. docker images                                                        |List images in the docker
 
 2. docker ps -a                                                         Show all containers
 
