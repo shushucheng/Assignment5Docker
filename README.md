@@ -13,6 +13,7 @@ Build an image from a Dockerfile
 (-t Name and optionally a tag in the ‘name:tag’ format)
                                                                         
 4. docker run --rm -d -p 8888.8888 --name myrunningapp mynodeapp
+
 Run a command in a new container
 (--name Assign a name to the container --rm Automatically remove the container when it exits -d Run container in background and print container ID -p Publish a container’s port(s) to the host)
 
