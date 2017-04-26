@@ -25,8 +25,9 @@ Command                                                                 Descript
 
 -------------------------------------------------------------------------------------------------------------------------------------
 step2: Open the browser(before you enter the command 6 of step1)
-1. enter localhost:8888/listRestaurant 
+enter localhost:8888/listRestaurant
 Displays a collection of my favorite chinese restaurants
-2. enter localhost:8888/listRestaurant/1 or localhost:8888/listRestaurant/2 or localhost:8888/listRestaurant/3 
+
+enter localhost:8888/listRestaurant/1 or localhost:8888/listRestaurant/2 or localhost:8888/listRestaurant/3 
 Displays a single restaurant that the corresponds to an ID=1,2,3 
                                                                         
